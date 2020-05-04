@@ -20,13 +20,13 @@ English | ELTU 2014
 Music , mind and AI | UGEB2149
 Engineering Practicum | CSCI3251
 Computers and Society | CSCI3250
-Chinese culture outline | UGBA2100
+Chinese culture outline | UGEA2100
 
 # My expected grade this semester
 - [ ] 4.0
 - [ ] 3.5 above
 - [ ] 3.0 above
-- [x] 2.5 above
+- [x] 2.5 above :(
 
 # My wishes in this semester
 * get a good grade
