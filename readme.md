@@ -34,3 +34,7 @@ Chinese culture outline | UGBA2100
 * learn to drive
 
 # My ScreenCapture
+
+![First image](https://github.com/csci3251-2020/student-1155125293/blob/master/git.PNG)
+For hours of effort...
+![Second image](https://github.com/csci3251-2020/student-1155125293/blob/master/git.PNG2)
