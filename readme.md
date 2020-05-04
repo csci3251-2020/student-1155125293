@@ -1,7 +1,7 @@
 
 # Hello
 
-this is 1155125293's introduction
+This is 1155125293's introduction
 
 *Welcome to my introduction!*
 
